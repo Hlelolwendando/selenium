@@ -9,5 +9,8 @@
         <module name="Anylytical_QA" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Anylytical_QA" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
